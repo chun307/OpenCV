@@ -1,2 +1,2 @@
 # OpenCV
-一些例子
+OpenCV一些经典算法
